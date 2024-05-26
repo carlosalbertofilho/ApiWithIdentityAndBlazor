@@ -17,6 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ApiWithIdentityAndBlazor.Application\ApiWithIdentityAndBlazor.Application.csproj" />
+    <ProjectReference Include="..\ApiWithIdentityAndBlazor.Domain\ApiWithIdentityAndBlazor.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
