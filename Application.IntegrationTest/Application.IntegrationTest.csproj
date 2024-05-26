@@ -19,6 +19,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ApiWithIdentityAndBlazor.Application\ApiWithIdentityAndBlazor.Application.csproj" />
     <ProjectReference Include="..\ApiWithIdentityAndBlazor.Domain\ApiWithIdentityAndBlazor.Domain.csproj" />
+    <ProjectReference Include="..\ApiWithIdentityAndBlazor.Infrastructure\ApiWithIdentityAndBlazor.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
